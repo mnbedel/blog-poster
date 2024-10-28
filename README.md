@@ -1,6 +1,3 @@
-Here’s the updated `README.md` with MongoDB installation and setup instructions using Docker:
-
-```markdown
 # Blog Poster Application
 
 Blog Poster is a blog application built in Go, using gRPC for client-server communication and MongoDB as the database. The app enables users to create, read, update, delete, and list blog posts.
@@ -170,6 +167,3 @@ blog-poster/
 ## License
 
 This project is licensed under the MIT License.
-```
-
-This update includes clear instructions for setting up MongoDB via Docker, simplifying the installation process. Let me know if you need further adjustments!
